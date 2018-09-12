@@ -1,0 +1,24 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1528082448537-7a6db294be9f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=15fc1496ab649dd33e4b80b299a12841&auto=format&fit=crop&w=1602&q=80);
+}
+h1{ 
+  text-align: center;
+  font-size: 5rem;
+  color: #7B1FA2;
+  text-transform: uppercase;
+}
+h2{
+	text-align: center;
+	font-size: 2rem;
+}
+main{
+	background-color: #00BCD4;
+}
+
+footer {
+	position: fixed;
+	text-align: center;
+	bottom: 0px;
+	width: 18%;
+	background-color: #616161;
+}
